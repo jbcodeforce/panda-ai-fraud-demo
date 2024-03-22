@@ -1,0 +1,5 @@
+langchain
+openai
+streamlit
+pandasai
+pandas<2.0.0
